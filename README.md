@@ -7,13 +7,14 @@ See [TEMPLATE_README.md](./TEMPLATE_README.md) for instructions on using the fou
 
 ![Anvil Fork Mainnet](./img/anvil-fork-mainnet.png)
 
+***
 # Query Mainnet
+
 ```
 00:26:37::jason@lima-jg-03::foundry-template-demo (main) $ cast block-number --rpc-url $API_URL_ALCHEMY
 17206587
-```<br>
-
-![Query Mainnet](./img/query-mainnet.png)
+```
+<br>
 
 # Contract Validation
 Check to see if [this contract](./src/MyCon.sol) is valid.
