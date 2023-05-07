@@ -2,6 +2,7 @@
 
 See [TEMPLATE_README.md](./TEMPLATE_README.md) for instructions on using the foundry template ([original source](https://github.com/PaulRBerg/foundry-template)).<br>
 
+***
 # Fork Mainnet
 `anvil --fork-url $API_URL_ALCHEMY`<br>
 
@@ -16,6 +17,7 @@ See [TEMPLATE_README.md](./TEMPLATE_README.md) for instructions on using the fou
 ```
 <br>
 
+***
 # Contract Validation
 Check to see if [this contract](./src/MyCon.sol) is valid.
 
