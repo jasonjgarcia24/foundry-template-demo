@@ -4,6 +4,7 @@ node_modules
 out
 
 # files
+*.pdf
 *.env
 *.log
 .DS_Store
